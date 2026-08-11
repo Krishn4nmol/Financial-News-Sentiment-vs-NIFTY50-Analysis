@@ -1,0 +1,5 @@
+venv/
+.ipynb_checkpoints/
+__pycache__/
+data/grouped_news.csv
+data/final_project_dataset_anmol.csv
